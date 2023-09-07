@@ -1,0 +1,19 @@
+h1{
+    background-color: grey;
+    background-size: 100px;
+    text-underline-position: auto;
+    font-size: 50px;
+    font-family:Cambria;
+    color:white;
+    text-decoration: underline;
+}
+ul{
+    margin:0;
+    padding:0;
+}
+
+nav ul li{
+    list-style-type: none;
+    display: line;
+    text-align: left;
+}
